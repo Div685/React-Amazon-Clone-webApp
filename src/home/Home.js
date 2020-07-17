@@ -8,7 +8,8 @@ function Home() {
     <div className="home">
       <img
         className="home__image"
-        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_45M_v2_1x._CB432458380_.jpg"
+        src="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonVideo/2020/X-site/SingleTitle/BITS/Launch/1500x600_Hero-Tall_np._CB410403194_.jpg"
+        // "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_45M_v2_1x._CB432458380_.jpg"
         alt="banner"
       />
 
