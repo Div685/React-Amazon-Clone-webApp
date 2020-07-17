@@ -1,5 +1,15 @@
 export const initialState = {
-  basket: [],
+  basket: [
+    // {
+    //   id: "123323",
+    //   title:
+    //     "The lean Startup. How constant innovation create Readly Successfull Business Park",
+    //   price: 11.96,
+    //   rating: 5,
+    //   image:
+    //     "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Deals_1x._SY304_CB430401028_.jpg",
+    // },
+  ],
   user: null,
 };
 
