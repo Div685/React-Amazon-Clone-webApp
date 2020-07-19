@@ -2,13 +2,14 @@ import React from "react";
 import { useStateValue } from "../services/StateProvider";
 import CheckOutProduct from "./check_out_product/CheckOutProduct";
 import "./CheckOut.css";
+import Subtotal from "./subtotal/Subtotal";
 
 function CheckOut() {
   const [{ basket }] = useStateValue();
 
   return (
-    <div className="chekout">
-      <div className="chekout__left">
+    <div className="checkout">
+      <div className="checkout__left">
         <img
           className="checkout__ad"
           src="https://images-na.ssl-images-amazon.com/images/G/02/UK_CCMP/TM/OCC_Amazon1._CB423492668_.jpg"
@@ -42,8 +43,8 @@ function CheckOut() {
       </div>
       {basket.length > 0 && (
         <div className="checkout__right">
-          {/* <Subtotal /> */}
-          <h1>Subtotal</h1>
+          <Subtotal />
+          {/* <h1>Subtotal</h1> */}
         </div>
       )}
     </div>
