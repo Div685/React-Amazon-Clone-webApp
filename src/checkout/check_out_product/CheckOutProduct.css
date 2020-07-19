@@ -1,9 +1,10 @@
 .checkoutProduct {
   display: flex;
-  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.checkoutProduct_image {
+.checkoutProduct__image {
   object-fit: contain;
   width: 180px;
   height: 180px;
