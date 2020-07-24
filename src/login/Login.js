@@ -13,16 +13,18 @@ function Login() {
   const login = (event) => {
     event.preventDefault(); //this stops referss
     //do the login logic.....
+
     auth.signInWithEmailAndPassword(email, password).then((auth) => {
       // logged in , redirect to home page
       history.push("/");
     }).catch(
       (e) => alert(e.message)
+
     );
   };
 
   const register = (event) => {
-    register.preventDefault(); //this stops referss
+    event.preventDefault(); //this stops referss
     //do the login logic...
     auth.createUserWithEmailAndPassword(email, password)
     .then((auth) => {
