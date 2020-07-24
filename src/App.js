@@ -39,7 +39,6 @@ function App() {
     };
   }, []);
 
-  console.log("User is >>>> ",user);
 
   return (
     <Router>

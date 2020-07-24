@@ -1,6 +1,7 @@
 import React from "react";
 import "././Product.css";
 import { useStateValue } from "../services/StateProvider";
+import StarIcon from '@material-ui/icons/Star';
 
 function Product({ id, title, image, price, rating }) {
   const [{ basket }, dispatch] = useStateValue();
@@ -30,7 +31,7 @@ function Product({ id, title, image, price, rating }) {
           {Array(rating)
             .fill()
             .map((_) => (
-              <p>&#9733;</p>
+              <StarIcon className="product__starIcon" />
             ))}
         </div>
       </div>

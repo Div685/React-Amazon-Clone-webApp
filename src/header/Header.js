@@ -48,7 +48,7 @@ function Header() {
 
         <Link to="/" className="header__link">
           <div className="header__option">
-            <span className="header__optionLineOne">try</span>
+            <span className="header__optionLineOne">Try</span>
             <span className="header__optionLineTwo">Prime</span>
           </div>
         </Link>
