@@ -1,4 +1,4 @@
-## Amazon Clone Using ReactJs, React Context API and Firebase
+# Amazon Clone Using ReactJs, React Context API and Firebase
 
 Fully Deployed on Firebase. [Click here](https://clone-webapp.web.app/) to visit Amazon Clone. 
 
