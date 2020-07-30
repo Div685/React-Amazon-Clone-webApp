@@ -26,7 +26,7 @@ function CheckOut() {
           </div>
         ) : (
           <div>
-            <h2 className="checkout__title"> Your shopping Baske.</h2>
+            <h2 className="checkout__title"> Your shopping Basket.</h2>
 
             {/* List of chekout product */}
             {basket.map((item) => (
