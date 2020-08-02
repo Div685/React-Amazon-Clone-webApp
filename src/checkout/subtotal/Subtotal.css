@@ -31,6 +31,8 @@
 }
 
 @media (max-width: 700px) {
-
- 
+  /* .subtotal {
+    float: left;
+    flex-direction: column;
+  } */
 }

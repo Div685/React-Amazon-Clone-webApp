@@ -18,11 +18,10 @@ function Home() {
       <div className="home__row">
         <Product
           id="123"
-          title="HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision/PTZ/Two-Way Audio, 2.4Ghz Wireless Home IP Camer"
+          title="HeimVision HM203 Security Camera, 1080P Surveillance WiFi Camera with Night Vision..."
           price={51.96}
           rating={5}
-          image=
-          "https://images-na.ssl-images-amazon.com/images/I/71yKQ6vWgiL._AC_SL1500_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/I/71yKQ6vWgiL._AC_SL1500_.jpg"
         />
 
         <Product
@@ -40,8 +39,7 @@ function Home() {
           title="Echo Dot (3rd gen) - Smart speaker with Alexa - Charcoal"
           price={110.96}
           rating={5}
-          image=
-          "https://images-na.ssl-images-amazon.com/images/I/419SVFEiGcL._AC_UL200_SR200,200_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/I/419SVFEiGcL._AC_UL200_SR200,200_.jpg"
           // "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
         />
 
@@ -71,7 +69,7 @@ function Home() {
           title="The lean Startup. How constant innovation create Readly Successfull Business Park"
           price={11.96}
           rating={5}
-          image= "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_45M_v2_1x._CB432458380_.jpg"
+          image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_45M_v2_1x._CB432458380_.jpg"
           // "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
         />
       </div>

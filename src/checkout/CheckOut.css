@@ -15,3 +15,13 @@
   width: 100%;
   margin-bottom: 10px;
 }
+
+@media (max-width: 700px) {
+  .checkout {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .checkout__ad {
+    display: none;
+  }
+}
