@@ -52,16 +52,14 @@ To install some of the required packages in your local machine
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Div685/youtube-homepage/issues).
+Feel free to check the [issues page](https://github.com/Div685/React-Amazon-Clone-webApp/issues).
 
 ## Show your support
 
 Give a :star: if you like this project
 
 ## Acknowledgments
-
-- [Font-awesome](https://fontawesome.com/) for it's Awesome Icons
-- [Google Fonts](https://fonts.google.com/) for it's Amazing Fonts
+- [Material-Ui](https://material-ui.com/components/material-icons/) for its Awesome Icons
 
 ## License
 
