@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "browserslist": "^4.16.5",
     "elliptic": "^6.5.4",
     "firebase": "^7.17.1",
     "hosted-git-info": "^2.8.9",
@@ -29,6 +30,7 @@
     "sockjs": "^0.3.20",
     "ssri": "^7.1.1",
     "url-parse": "^1.5.0",
+    "ws": "^6.2.2",
     "y18n": "^4.0.1"
   },
   "scripts": {
