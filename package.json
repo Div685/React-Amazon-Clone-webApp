@@ -10,6 +10,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "browserslist": "^4.16.5",
+    "css-what": "^5.0.1",
     "elliptic": "^6.5.4",
     "firebase": "^7.17.1",
     "hosted-git-info": "^2.8.9",
